@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sebastiandiaz0442/SampleJava/_apis/build/status/sebup1816.SampleJava2?branchName=master)](https://dev.azure.com/sebastiandiaz0442/SampleJava/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
